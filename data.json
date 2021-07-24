@@ -1,0 +1,20 @@
+{
+	"domande": [
+		{
+			"testoDomanda": "Domanda 1",
+			"risposta": "Risposta",
+			"risposte": ["Risposta", "Non Risposta"]
+		},
+		{
+			"testoDomanda": "Domanda 2",
+			"risposta": "Trappola",
+			"risposte": ["Trappola"]
+		},
+		{
+			"testoDomanda": "Domanda 3",
+			"risposta": "Risposta",
+			"risposte": ["Risposta", "Non Risposta"]
+		}
+	]
+}
+		
